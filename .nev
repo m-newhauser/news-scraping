@@ -1,0 +1,4 @@
+HOST="localhost"
+DATABASE="news"
+USER="postgres"
+PASSWORD="Data4PGSQL"
